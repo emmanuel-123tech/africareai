@@ -1,7 +1,7 @@
-# AfricareAI-by-Neural-Minds
+# AfricareAI
 
 
-This project was developed for the AI for Smarter Primary Health Care in Africa as part of the 3 challenges hosted by DataFest Africa, which challenges innovators to strengthen Primary Health Care (PHC) systems across Africa through artificial intelligence and data-driven decision-making.
+This project was developed for the AI for Smarter Primary Health Care in Africa, which challenges innovators to strengthen Primary Health Care (PHC) systems across Africa through artificial intelligence and data-driven decision-making.
 
 Our team, Neural Minds, focused on a recurring challenge in African health systems  fragmented PHC data and reactive decision-making.
 We selected Ondo State, Nigeria, with its 18 Local Government Areas (LGAs) and more than 200 PHC facilities, as our pilot region.
